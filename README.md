@@ -1,4 +1,2 @@
-## Opa
-
-Olá, Eu sou o ExilyDev, um GameDev do roblox que usa LINUX
 ![Logo](Banner.png)
+Olá, Eu Sou Exilydev. Um GameDev Linux do roblox
